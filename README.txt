@@ -21,6 +21,8 @@ $ ./disklist [diskImageFileName]
 $ ./diskget [diskImageFileName] [fileName]
 $ ./diskput [diskImageFileName] [fileName]
 
+Ex: $./diskinfo disk2.IMA
+
 Description:
 
 diskinfo - Lists some information about the disk according to assignment descrption
